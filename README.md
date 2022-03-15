@@ -54,5 +54,7 @@ https://monash.bootcampcontent.com/monash-coding-bootcamp/monu-virt-data-11-2021
 
 ### Screenshots of the outputs follow.
 
+![1 Poverty V Obesity](https://user-images.githubusercontent.com/89948865/158281671-32eb06cf-0cf8-43d6-a360-eaf26233a751.png)
+
 
 
