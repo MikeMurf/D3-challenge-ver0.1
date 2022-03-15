@@ -1,6 +1,6 @@
 ![D3 Investigation](https://user-images.githubusercontent.com/89948865/158280758-abdb76f4-2fc1-440c-ba63-9ec6d841bf15.png)
-# Photo by Markus Winkler on Unsplash 
-### Requirements
+#### Photo by Markus Winkler on Unsplash 
+## Requirements
 The overall requirements for this homework are as follows: -
 
 “   Welcome to the newsroom! You've just accepted a data visualisation position for a major metro paper. You're tasked with analysing the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand your findings.
