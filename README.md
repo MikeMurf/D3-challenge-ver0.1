@@ -56,5 +56,19 @@ https://monash.bootcampcontent.com/monash-coding-bootcamp/monu-virt-data-11-2021
 
 ![1 Poverty V Obesity](https://user-images.githubusercontent.com/89948865/158281671-32eb06cf-0cf8-43d6-a360-eaf26233a751.png)
 
+![2 Poverty V Smokes](https://user-images.githubusercontent.com/89948865/158281742-63ba8edc-def4-4c25-a394-666f48e7cb8e.png)
 
+![3 Poverty V Healthcare](https://user-images.githubusercontent.com/89948865/158281768-65625ddc-b2f1-4350-afa0-3bd9dd2700c0.png)
+
+![4 Income V Obesity](https://user-images.githubusercontent.com/89948865/158281802-0ad758b8-024a-4a59-a9f9-b0145dd67f43.png)
+
+![5 Income V Smokes](https://user-images.githubusercontent.com/89948865/158281835-1abeeff7-8dd2-4f1a-9b71-286faa559e3e.png)
+
+![6 Income V Healthcare](https://user-images.githubusercontent.com/89948865/158281869-b8f91739-216f-4880-a4a6-704f86ceb089.png)
+
+![7 Age V Obesity](https://user-images.githubusercontent.com/89948865/158281903-ff7ea3fc-a0ea-4be9-a7d1-d2bacb39c212.png)
+
+![8 Age V Smokes](https://user-images.githubusercontent.com/89948865/158281936-3fb97f71-51e5-4271-8e54-f2ce73df858a.png)
+
+![9 Age V Healthcare](https://user-images.githubusercontent.com/89948865/158281961-fc3a1ef9-bd5c-44a6-b157-c80855c877b9.png)
 
